@@ -9,6 +9,13 @@
 4. py main.py
 5. open the Outcomes to see analysis
 
+## What if #ERROR
+
+1. Open the outcomes file
+2. Open "1.xls" and "2.xls"
+3. Close "outcomes.xlsx"
+4. Open "outcomes.xlsx" again
+
 
 ### Note
 This program is mainly for 'xls' files to read
