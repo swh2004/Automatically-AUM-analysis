@@ -12,3 +12,7 @@
 
 ### Note
 This program is mainly for 'xls' files to read
+
+## Install Python
+
+https://www.python.org/downloads/release/python-3123/
