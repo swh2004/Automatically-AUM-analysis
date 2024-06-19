@@ -2,12 +2,11 @@
 
 ## How to use
 
-1. Set the name of AUM for diffrent month to 1 (the former one) and 2 (the later one).
+1. Set the name of AUM for different months to 1 (the former one) and 2 (the latter one).
 ### in cmd
-2. py -m pip install pandas
-3. py -m pip install openpyxl
-4. py main.py
-5. open the Outcomes to see analysis
+2. `py -m pip install pandas openpyxl xlrd
+3. `py main.py
+4. open the Outcomes to see the analysis
 
 ## What if #ERROR
 
