@@ -4,16 +4,15 @@
 
 1. Set the name of AUM for different months to 1 (the former one) and 2 (the latter one).
 ### in cmd
-2. `py -m pip install pandas openpyxl xlrd
-3. `py main.py
+2. `py -m pip install pandas openpyxl xlrd`
+3. `py main.py`
 4. open the Outcomes to see the analysis
 
 ## What if #ERROR
 
 1. Open the outcomes file
 2. Open "1.xls" and "2.xls"
-3. Close "outcomes.xlsx"
-4. Open "outcomes.xlsx" again
+3. Refresh data source automatically / manually
 
 
 ### Note
