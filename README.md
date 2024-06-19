@@ -6,7 +6,7 @@
 ### in cmd
 2. `py -m pip install pandas openpyxl xlrd`
 3. `py main.py`
-4. open the Outcomes to see the analysis
+4. open the Outcomes to see the analysis (open source data to make it refreshed)
 
 ## What if #ERROR
 
